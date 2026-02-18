@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local editor / tooling metadata
+.idea/
+.vscode/
+.codex/
+.cursor-server
+.marscode/
+.lightning_studio/
+.triton/
+
+# Environment / user-local files
+.cache/
+.config/
+.local/
+.dotnet/
+.ipython/
+.jupyter/
+.nvm
+.oh-my-zsh/
+.ssh/
+.zcompdump
+.zsh_history
+.wget-hsts
+.windsurf-server
+.vscode-server
+
+# Large model & experiment artifacts
+llama.cpp/
+converted_gguf/
+gguf_output/
+model/
+models/
+original_model/
+hf_model/
+gemma2b-nirf-lookup/
+gemma2b-nirf-model/
+gemma_base_tokenizer/
+results/
+results_gemma2/
+
+# Common ML artifact extensions
+*.gguf
+*.safetensors
+*.pt
+*.pth
+*.bin

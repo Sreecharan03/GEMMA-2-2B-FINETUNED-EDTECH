@@ -1,0 +1,5 @@
+lxml
+torch
+google-generativeai
+psycopg2
+psycopg2-binary
